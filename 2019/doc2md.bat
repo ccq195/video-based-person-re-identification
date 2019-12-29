@@ -1,1 +1,0 @@
-pandoc -s paper2019.docx -o paper2019.md
